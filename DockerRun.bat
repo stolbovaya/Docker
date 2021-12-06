@@ -1,0 +1,1 @@
+docker run --name lesson2 -d -p 8080:8080 lesson2:v1
